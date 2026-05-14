@@ -1,0 +1,22 @@
+{
+    "cursos":[
+        {
+            "id":1,
+            "nome":"Desenvolvimento de Sistemas",
+            "disciplinas":["WEB III","PAM II", "BD"],
+            "carga-horaria":1200
+        },
+        {
+            "id":2,
+            "nome":"Administração",
+            "disciplinas":["Inglês Intrumental","Economia e mercado", "Aplicativos Informatizados"],
+            "carga-horaria":1200
+        },
+        {
+            "id":3,
+            "nome":"Jogos Digitais",
+            "disciplinas":["Inglês Intrumental","Animação 3D", "Game Design"],
+            "carga-horaria":1200
+        }
+    ]
+}
