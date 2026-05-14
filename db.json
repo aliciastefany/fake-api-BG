@@ -18,5 +18,11 @@
             "disciplinas":["Inglês Intrumental","Animação 3D", "Game Design"],
             "carga-horaria":1200
         }
+    ],
+    "professores":[
+        {"id":1, "nome":"Molinari"},
+        {"id":2, "nome":"Rovilson"},
+        {"id":3, "nome":"Cidade"},
+        {"id": 4, "nome":"Enildo"}
     ]
 }
